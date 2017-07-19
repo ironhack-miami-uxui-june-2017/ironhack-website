@@ -1,0 +1,126 @@
+.grey-background {
+  background-color: #283038;
+  color: white;
+}
+
+header {
+  padding: 35px;
+}
+
+h1 {
+  float: left;
+}
+
+nav {
+  float: right;
+}
+
+.nav-item {
+  display: inline;
+  margin-left: 25px;
+}
+
+a {
+  color: #a4bdd1;
+}
+
+main {
+  clear: both;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  padding: 70px 0;
+}
+
+h2 {
+  font-size: 70px;
+  width: 700px;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 25px;
+  color: #a4bdd1;
+  margin: 20px 0;
+}
+
+.button-link {
+  background-color: #43a3e6;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 20px 70px;
+  margin: 100px auto;
+  display: block;
+  width: 200px;
+}
+
+
+.digital-education {
+  padding: 90px 0;
+  text-align: center;
+}
+
+.education-heading {
+  font-size: 30px;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: lighter;
+  width: 100%;
+  margin-bottom: 75px;
+}
+
+.education-item {
+  float: left;
+  width: 30%;
+  margin: 0 15px;
+}
+
+.edu-list-heading {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+.edu-list-text {
+  font-size: 17px;
+  width: 66%;
+  margin: 0 auto;
+}
+
+
+.courses {
+  background-color: #fafafa;
+  padding: 90px 0;
+  text-align: center;
+  clear: both;
+  margin-bottom: 100px;
+}
+
+.course-item {
+  float: left;
+  width: 30%;
+  margin: 0 15px;
+  border: 1px solid black;
+  padding: 40px 0;
+}
+
+small {
+  display: block;
+}
+
+.course-heading {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.course-text {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+.course-link {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 10px 70px;
+  background-color: #43a3e6;
+}
